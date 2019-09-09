@@ -1,0 +1,1 @@
+This is the first text file I have ever created in VS Code.  My mother would be so proud if she could understand what I did.
